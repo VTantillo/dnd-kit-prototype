@@ -8,7 +8,7 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    require('windy-radix-palette'),
+    // require('windy-radix-palette'),
     require('tailwindcss-radix')(),
     require('@tailwindcss/typography'),
     require('windy-radix-typography'),
